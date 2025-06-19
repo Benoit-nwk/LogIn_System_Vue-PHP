@@ -1,0 +1,14 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --color-primary: #42b983;
+  --color-secondary: #35495e;
+  --color-accent: #82cce4;
+  --color-background: #f5f5f5;
+  --color-text: #f5f5f5;
+  --color-text-secondary: #2b2b2b;
+  --color-border: #e0e0e0;
+  --color-error: #ff5252;
+  --color-success: #4caf50;
+  --color-warning: #ff9800;
+}
+
